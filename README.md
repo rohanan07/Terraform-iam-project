@@ -53,6 +53,9 @@ outputs.tf # Terraform outputs
 
 ---
 
+##Architecuture Diagram:
+![Architecture Diagram](https://github.com/rohanan07/Terraform-iam-project/blob/main/Terraform%20Iam%20project%20architecture.png)
+
 ## Key Learnings
 
 - IAM is more about **secure access design** than just permissions
@@ -73,4 +76,5 @@ The goal was to understand AWS IAM and Terraform fundamentals properly and apply
 ## Credits
 
 - **Piyush Sachdeva** — for the original tutorial and explanation
+
 
